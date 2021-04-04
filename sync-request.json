@@ -1,0 +1,12 @@
+{
+  "config": {
+      "encoding":"FLAC",
+      "sampleRateHertz": 16000,
+      "languageCode": "ja-JP",
+      "enableWordTimeOffsets": false
+  },
+  "audio": {
+      "uri":"https://storage.radiotalk.jp/u177391/audio/talks/523746/c_20210404010650_Bu9elf5R.m4a"
+  }
+}
+

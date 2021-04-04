@@ -1,4 +1,11 @@
 # Created by .ignore support plugin (hsz.mobi)
+
+### Custom
+.firebaserc
+algolia.config.js
+firebase.json
+.firebase
+
 ### Node template
 # Logs
 /logs
